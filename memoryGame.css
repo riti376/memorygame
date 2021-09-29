@@ -6,9 +6,9 @@
  }               
 body{
     height: 100vh;
-    /*background: radial-gradient( rgb(7, 60, 112),rgb(24, 28, 31));*/
+    background: radial-gradient( rgb(7, 60, 112),rgb(24, 28, 31));
       /*background: radial-gradient( rgb(62, 97, 211),rgb(5, 20, 87));*/
-      background: url(img2.jpg);
+     /* background: url(img2.jpg); */
       background-size: cover;
       background-attachment: fixed;  
 }
