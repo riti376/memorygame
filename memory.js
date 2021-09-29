@@ -66,7 +66,7 @@ function scoreAdd(){
 		count.textContent = Score;
 }
 function Timer(){
-let T = 60;
+let T = 45;
 const timeValue = setInterval((interval) => {
   T-= 1;
   timer.textContent = T;
